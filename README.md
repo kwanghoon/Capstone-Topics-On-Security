@@ -89,8 +89,6 @@
 * **[PE-Sieve](https://github.com/hasherezade/pe-sieve)**: 프로세스 메모리 스캔·페이로드 탐지
 * **[RansomWatch](https://github.com/joshhighet/ransomwatch)**: 랜섬웨어 유출 사이트 모니터링
 * **[Honeybits](https://github.com/0x4D31/honeybits)**: 허니파일로 암호화 행위 조기탐지
-* **[Loki](https://github.com/Neo23x0/Loki)**: IOC 기반 랜섬웨어·악성코드 스캐너
-* **[RansomCheck](https://github.com/Tylous/RansomCheck)**: 파일 랜섬웨어 감염 여부 확인
 
 ---
 
