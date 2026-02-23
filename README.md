@@ -55,16 +55,15 @@
 ---
 
 ### 4. Static Source Code Analysis (SAST)
-* **[CodeQL](https://github.com/github/codeql)**: 시맨틱 분석 기반 취약점 탐지 엔진
-* **[Semgrep](https://github.com/semgrep/semgrep)**: 규칙 기반 다중언어 정적 분석기
-* **[CodeSonar](https://www.codesecure.com/products/codesonar)**: 데이터흐름 분석 기반 상용 SAST
-* **[Joern](https://github.com/joernio/joern)**: 코드 속성 그래프 기반 분석 플랫폼
-* **[PMD](https://github.com/pmd/pmd)**: 코드 품질·결함 탐지 정적 분석
+* **CodeQL[https://github.com/github/codeql](https://github.com/github/codeql)**: 시맨틱 분석 기반 취약점 탐지 엔진
+* **Semgrep][https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)**: 규칙 기반 다중언어 정적 분석기
+* **Joern[https://github.com/joernio/joern](https://github.com/joernio/joern)**: 코드 속성 그래프 기반 분석 플랫폼
+* **PMD[https://github.com/pmd/pmd](https://github.com/pmd/pmd)**: 코드 품질·결함 탐지 정적 분석
   
 ---
 
 ### 5. Binary Analysis
-* **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)**: 리버스 엔지니어링·바이너리 분석 도구
+* **Ghidra[https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)**: 리버스 엔지니어링·바이너리 분석 도구
 
 ---
 
