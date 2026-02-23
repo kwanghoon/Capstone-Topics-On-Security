@@ -54,11 +54,12 @@
 
 ---
 
-### 4. Static Source Code Analysis (SAST)
+### 4. Static/Dynamic Source Code Analysis (SAST/DAST)
 * **CodeQL[https://github.com/github/codeql](https://github.com/github/codeql)**: 시맨틱 분석 기반 취약점 탐지 엔진
 * **Semgrep][https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)**: 규칙 기반 다중언어 정적 분석기
 * **Joern[https://github.com/joernio/joern](https://github.com/joernio/joern)**: 코드 속성 그래프 기반 분석 플랫폼
 * **PMD[https://github.com/pmd/pmd](https://github.com/pmd/pmd)**: 코드 품질·결함 탐지 정적 분석
+* **AFL++[https://github.com/AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus)퍼징 테스트 도구
   
 ---
 
@@ -79,6 +80,7 @@
 
 ### 7. Phishing Analysis
 * **[ThePhish](https://github.com/emalderson/ThePhish)**: 피싱 메일 자동 분석·대응 플랫폼
+  - [Step-by-Step Guide](https://en.hacks.gr/%CE%B5%CE%BD%CF%84%CE%BF%CF%80%CE%AF%CF%83%CF%84%CE%B5-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%BD%CE%B1%CE%BB%CF%8D%CF%83%CF%84%CE%B5-phishing-emails-%CE%BC%CE%B5-%CF%84%CE%BF-thephish-%CE%B2%CE%AE/)
 * **[PhishTool](https://github.com/criggs6/PhishTool)**: 피싱 이메일 아티팩트 추출·분석
 
 ---
