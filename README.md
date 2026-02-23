@@ -1,7 +1,7 @@
 # Capstone-Topics-On-Security
 
 ### 0. 캡스톤디자인 프로젝트 
-* 2025년 윤리적 해킹과 방어를 마스터하기 위한 실습형 사이버보안 프로젝트 70선** (capstone-project.html)
+* 2025년 윤리적 해킹과 방어를 마스터하기 위한 실습형 사이버보안 프로젝트 70선** (https://github.com/kwanghoon/Capstone-Topics-On-Security/capstone-project.html)
    -  [원문](https://siemtune.com/cybersecurity-projects/)
 
 ### 1. 디지털 포렌식 및 침해 사고 대응 (DFIR)
