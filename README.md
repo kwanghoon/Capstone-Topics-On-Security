@@ -64,7 +64,7 @@
 ---
 
 ### 5. Binary Analysis
-* **Ghidra[https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)**: 리버스 엔지니어링·바이너리 분석 도구
+* **Ghidra** [https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra): 리버스 엔지니어링·바이너리 분석 도구
 
 ---
 
@@ -81,7 +81,11 @@
 ### 7. Phishing Analysis
 * **[ThePhish](https://github.com/emalderson/ThePhish)**: 피싱 메일 자동 분석·대응 플랫폼
   - [Step-by-Step Guide](https://en.hacks.gr/%CE%B5%CE%BD%CF%84%CE%BF%CF%80%CE%AF%CF%83%CF%84%CE%B5-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%BD%CE%B1%CE%BB%CF%8D%CF%83%CF%84%CE%B5-phishing-emails-%CE%BC%CE%B5-%CF%84%CE%BF-thephish-%CE%B2%CE%AE/)
-* **[PhishTool](https://github.com/criggs6/PhishTool)**: 피싱 이메일 아티팩트 추출·분석
+* Phishing-Email analysis
+ - [site1](https://app.letsdefend.io/training/lessons/phishing-email-analysis)
+ - [site2](https://www.linkedin.com/pulse/phishing-email-simple-analysis-asif-ali/)
+ - [site3](https://www.imperva.com/blog/our-analysis-of-1019-phishing-kits/)
+
 
 ---
 
@@ -106,10 +110,13 @@
 ---
 
 ### 10. 기타 스크립트 및 도구 모음
+*   ** [70 Hands-On Cybersecurity Projects to Master Ethical Hacking & Defense in 2025] (https://siemtune.com/cybersecurity-projects/)
+*   Windows Forensics Projects for Beginners: A Practical Entry into DFIR
+     - [github](https://github.com/0xrajneesh/Windows-Forensics-Projects-for-Beginners)
+     - [blog](https://www.linkedin.com/pulse/windows-forensics-projects-beginners-practical-entry-eslahi-ph-d--kg4vc/)
 *   **PowerShell Security Scripts:** [https://github.com/Am0rphous/PowerShell](https://github.com/Am0rphous/PowerShell)
     *   보안 관리, Blue/Red Team을 위한 다양한 PowerShell 스크립트 모음.
 *   **GoPhish:** [https://github.com/gophish/gophish](https://github.com/gophish/gophish) (오픈소스 피싱 시뮬레이션 및 캠페인 관리 프레임워크)
 *   **Lynis:** [https://github.com/CISOfy/lynis](https://github.com/CISOfy/lynis) (시스템 보안 취약점 진단 및 감사 도구)
 *   **CyberChef:** [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef) (데이터 인코딩, 디코딩 및 변환을 위한 웹 도구)
-
-* 
+*   **무작위 자료 모음**()
