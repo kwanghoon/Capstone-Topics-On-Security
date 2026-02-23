@@ -1,11 +1,8 @@
 # Capstone-Topics-On-Security
 
-## 파일에 포함된 주요 내용:
-*   **70가지 보안 프로젝트**: 초급부터 고급까지의 실습 로드맵
-*   **GitHub 프로젝트 카테고리별 분류**: DFIR(포렌식), Offensive(공격), Defensive(방어/SIEM), AI 보안 등
-*   **최신 보안 위협 (2025)**: 금융 보안 SW 취약점, AI 기반 랜섬웨어 등 최신 리포트 링크
-*   **보안 도구 및 명령어**: SIEM 도구 목록, 멀웨어 분석 샌드박스, 리눅스 로그 처리 및 Nmap 명령어 요약
-*   **학습 리소스**: CTF 플랫폼, 보안 검색 엔진 및 교육 채널 정보
+### 0. 캡스톤디자인 프로젝트 
+* 2025년 윤리적 해킹과 방어를 마스터하기 위한 실습형 사이버보안 프로젝트 70선** (capstone-project.html)
+   -  [원문](https://siemtune.com/cybersecurity-projects/)
 
 ### 1. 디지털 포렌식 및 침해 사고 대응 (DFIR)
 *   **LAP (Linux Artifact Parser):** [https://github.com/linuxartifactparser/LAP](https://github.com/linuxartifactparser/LAP)
