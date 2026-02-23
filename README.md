@@ -23,7 +23,7 @@
 *   **Awesome Forensics:** [https://github.com/cugu/awesome-forensics](https://github.com/cugu/awesome-forensics)
     *   포렌식 관련 도구 및 리소스 큐레이션 목록.
 *   **The Sleuth Kit & Autopsy:** [https://github.com/sleuthkit](https://github.com/sleuthkit) (텍스트 내 도구 언급)
-*   **Volatility:** [https://github.com/volatilityfoundation/volatility](https://github.com/volatilityfoundation/volatility) (텍스트 내 도구 언급)
+*   **Volatility:** [https://github.com/volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3) (텍스트 내 도구 언급)
 
 ---
 
