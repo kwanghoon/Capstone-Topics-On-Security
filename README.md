@@ -106,8 +106,8 @@
 ---
 
 ### 10. 기타 스크립트 및 도구 모음
-*   ** [70 Hands-On Cybersecurity Projects to Master Ethical Hacking & Defense in 2025] (https://siemtune.com/cybersecurity-projects/)
-*   Windows Forensics Projects for Beginners: A Practical Entry into DFIR
+*   **70 Hands-On Cybersecurity Projects to Master Ethical Hacking & Defense in 2025** (https://siemtune.com/cybersecurity-projects/)
+*   **Windows Forensics Projects for Beginners: A Practical Entry into DFIR**
      - [github](https://github.com/0xrajneesh/Windows-Forensics-Projects-for-Beginners)
      - [blog](https://www.linkedin.com/pulse/windows-forensics-projects-beginners-practical-entry-eslahi-ph-d--kg4vc/)
 *   **PowerShell Security Scripts:** [https://github.com/Am0rphous/PowerShell](https://github.com/Am0rphous/PowerShell)
