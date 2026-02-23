@@ -55,11 +55,11 @@
 ---
 
 ### 4. Static/Dynamic Source Code Analysis (SAST/DAST)
-* **CodeQL[https://github.com/github/codeql](https://github.com/github/codeql)**: 시맨틱 분석 기반 취약점 탐지 엔진
+* **CodeQL** [https://github.com/github/codeql](https://github.com/github/codeql): 시맨틱 분석 기반 취약점 탐지 엔진
 * **Semgrep][https://github.com/semgrep/semgrep](https://github.com/semgrep/semgrep)**: 규칙 기반 다중언어 정적 분석기
-* **Joern[https://github.com/joernio/joern](https://github.com/joernio/joern)**: 코드 속성 그래프 기반 분석 플랫폼
-* **PMD[https://github.com/pmd/pmd](https://github.com/pmd/pmd)**: 코드 품질·결함 탐지 정적 분석
-* **AFL++[https://github.com/AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus)퍼징 테스트 도구
+* **Joern** [https://github.com/joernio/joern](https://github.com/joernio/joern): 코드 속성 그래프 기반 분석 플랫폼
+* **PMD** [https://github.com/pmd/pmd](https://github.com/pmd/pmd) : 코드 품질·결함 탐지 정적 분석
+* **AFL++**[https://github.com/AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) : 퍼징 테스트 도구
   
 ---
 
@@ -81,11 +81,7 @@
 ### 7. Phishing Analysis
 * **[ThePhish](https://github.com/emalderson/ThePhish)**: 피싱 메일 자동 분석·대응 플랫폼
   - [Step-by-Step Guide](https://en.hacks.gr/%CE%B5%CE%BD%CF%84%CE%BF%CF%80%CE%AF%CF%83%CF%84%CE%B5-%CE%BA%CE%B1%CE%B9-%CE%B1%CE%BD%CE%B1%CE%BB%CF%8D%CF%83%CF%84%CE%B5-phishing-emails-%CE%BC%CE%B5-%CF%84%CE%BF-thephish-%CE%B2%CE%AE/)
-* Phishing-Email analysis
- - [site1](https://app.letsdefend.io/training/lessons/phishing-email-analysis)
- - [site2](https://www.linkedin.com/pulse/phishing-email-simple-analysis-asif-ali/)
- - [site3](https://www.imperva.com/blog/our-analysis-of-1019-phishing-kits/)
-
+* Phishing-Email analysis [site2](https://www.linkedin.com/pulse/phishing-email-simple-analysis-asif-ali/)
 
 ---
 
@@ -119,4 +115,4 @@
 *   **GoPhish:** [https://github.com/gophish/gophish](https://github.com/gophish/gophish) (오픈소스 피싱 시뮬레이션 및 캠페인 관리 프레임워크)
 *   **Lynis:** [https://github.com/CISOfy/lynis](https://github.com/CISOfy/lynis) (시스템 보안 취약점 진단 및 감사 도구)
 *   **CyberChef:** [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef) (데이터 인코딩, 디코딩 및 변환을 위한 웹 도구)
-*   **무작위 자료 모음**()
+*   **무작위 자료 모음**(https://docs.google.com/document/d/1NsVca5OxNFphjue1_hEYfPTKNtfFazpvtSV0Msg-wIw/edit?usp=sharing)
